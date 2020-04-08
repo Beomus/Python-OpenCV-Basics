@@ -1,6 +1,7 @@
 # Basic Usage of OpenCV in Python
 Just some really basic OpenCV functions in Python to work with images.
-
+### ** Original**
+![Original](https://imgur.com/sgBoHz0.png)
 ### **Grayscale**
 ![Grayscale](https://imgur.com/zS1O86J.png)
 ### **Edge**
